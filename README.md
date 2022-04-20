@@ -1,5 +1,5 @@
-# wc-product-custom-quantity-icons
-Adding custom quantity arrows/icons to WC product quantity input
+# wc-product-custom-quantity-icons 
+Adding custom quantity arrows/icons to WC product quantity input field.
 
 1. simple.php
 
