@@ -1,5 +1,5 @@
 <div class="quantity-wrapper">
-    <span class="qty-icon qty-minus"><i class="fal fa-minus"></i></span>
+    <div class="quantity-wrapper <?php if($product->get_manage_stock() == 1) { echo 'd-none'; } ?>">
     
     <?php
         do_action( 'woocommerce_before_add_to_cart_quantity' );
