@@ -1,6 +1,6 @@
 
 <!-- 
-1. In woocommerce/add-to-cart/simple.php template wrapping default quantity input field (PHP part below) with .quantity-wrapper div and adding span elements for minus/plus icons.
+In woocommerce/add-to-cart/simple.php template wrapping default quantity input field (PHP part below) with .quantity-wrapper div and adding span elements for minus/plus icons.
 -->
 
 <div class="quantity-wrapper">
