@@ -7,6 +7,10 @@
   margin-right: 25px;
   background: white;
   border-radius: 5px;
+  
+  &.d-none {
+    display: none;
+  }
 
   .qty-icon {
     height: 55px;
